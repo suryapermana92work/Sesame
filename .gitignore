@@ -67,3 +67,5 @@ buck-out/
 
 # App
 # /app/config/index.ts
+*.hprof
+*.apk
